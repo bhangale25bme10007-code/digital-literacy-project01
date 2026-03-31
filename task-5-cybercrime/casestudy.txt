@@ -1,0 +1,5 @@
+UPI fraud is a common cybercrime where attackers trick users into sharing sensitive information such as OTPs or payment requests. The fraud usually starts with a fake call, message, or link that appears to be from a bank or trusted service. The victim is asked to click on a link or approve a payment request.
+
+Many students and general users are targeted because they may not be fully aware of such scams. Once the victim shares their details or approves the request, money is instantly deducted from their account.
+
+This type of fraud can cause financial loss and stress. It highlights the importance of digital awareness and safe online practices.
